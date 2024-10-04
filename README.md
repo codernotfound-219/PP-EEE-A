@@ -5,5 +5,5 @@
 
 ## FILES:
 1. **PRECEDENCE & ASSOCIATIVITY.pdf** : table of precedence
-2. **String_methods.pdf** : common string methods
+2. **String_methods.pdf + MoreMethods** : common string methods
 3. **.gitignore** : ignored files
